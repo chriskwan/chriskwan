@@ -1,12 +1,4 @@
-##### 👋 🌎
-#### 👋 🌎
-### 👋 🌎
-## 👋 🌎
 # 👋 🌎
-## 👋 🌎
-### 👋 🌎
-#### 👋 🌎
-##### 👋 🌎
 
 <!-- ![Gif of cat typing furiously](https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif "Cat typing furiously") -->
 
