@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 🌎
+![Gif of cat typing furiously](https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif "Cat typing furiously")
 
 <!--
 **chriskwan/chriskwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
